@@ -1,3 +1,3 @@
 # Sheetify-
 Google SpreadSheet Clone
-https://sheetify.netlify.app/
+https://spreadsheet2.netlify.app/
